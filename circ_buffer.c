@@ -1,4 +1,3 @@
-// gcc -Wall -Wextra -Werror -g -pthread SabinaAskerova.c -o a.out
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
